@@ -1,0 +1,2 @@
+# Just operation to Amazon S3 cloud at chinascope company
+thrift

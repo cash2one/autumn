@@ -1,0 +1,28 @@
+2016-08-08 17:52:51,326 root   INFO     Query:django
+2016-08-08 17:52:51,326 root   INFO     Sources:web
+2016-08-08 17:52:51,326 root   INFO     Other Args:{}
+2016-08-08 17:52:51,328 root   INFO     final_url:http://api.search.live.net/json.aspx?Appid=LVqAJDmakLrIedU54RutHL2qGxHlEILdYVCkBrE+t1A&query=django&sources=web
+2016-08-08 17:52:52,026 root   INFO     Error
+2016-08-08 17:52:52,026 root   INFO     data:{u'SearchResponse': {u'Errors': [{u'HelpUrl': u'http://msdn.microsoft.com/en-us/library/dd251042.aspx', u'Message': u'Parameter has invalid value.', u'Code': 1002, u'Parameter': u'SearchRequest.AppId', u'Value': u'LVqAJDmakLrIedU54RutHL2qGxHlEILdYVCkBrE t1A'}], u'Query': {u'SearchTerms': u'django'}, u'Version': u'2.2'}}
+2016-08-08 17:53:10,165 root   INFO     Query:django
+2016-08-08 17:53:10,165 root   INFO     Sources:Web
+2016-08-08 17:53:10,165 root   INFO     Other Args:{}
+2016-08-08 17:53:10,165 root   INFO     final_url:http://api.search.live.net/json.aspx?Appid=LVqAJDmakLrIedU54RutHL2qGxHlEILdYVCkBrE+t1A&query=django&sources=Web
+2016-08-08 17:53:10,387 root   INFO     Error
+2016-08-08 17:53:10,387 root   INFO     data:{u'SearchResponse': {u'Errors': [{u'HelpUrl': u'http://msdn.microsoft.com/en-us/library/dd251042.aspx', u'Message': u'Parameter has invalid value.', u'Code': 1002, u'Parameter': u'SearchRequest.AppId', u'Value': u'LVqAJDmakLrIedU54RutHL2qGxHlEILdYVCkBrE t1A'}], u'Query': {u'SearchTerms': u'django'}, u'Version': u'2.2'}}
+2016-08-08 17:53:38,694 root   INFO     Query:django
+2016-08-08 17:53:38,694 root   INFO     Sources:web
+2016-08-08 17:53:38,696 root   INFO     Other Args:{}
+2016-08-08 17:53:38,696 root   INFO     final_url:http://api.search.live.net/json.aspx?Appid=LVqAJDmakLrIedU54RutHL2qGxHlEILdYVCkBrE+t1A&query=django&sources=web
+2016-08-08 17:53:38,878 root   INFO     Error
+2016-08-08 17:53:38,878 root   INFO     data:{u'SearchResponse': {u'Errors': [{u'HelpUrl': u'http://msdn.microsoft.com/en-us/library/dd251042.aspx', u'Message': u'Parameter has invalid value.', u'Code': 1002, u'Parameter': u'SearchRequest.AppId', u'Value': u'LVqAJDmakLrIedU54RutHL2qGxHlEILdYVCkBrE t1A'}], u'Query': {u'SearchTerms': u'django'}, u'Version': u'2.2'}}
+2016-08-08 17:54:26,335 root   INFO     Query:django
+2016-08-08 17:54:26,335 root   INFO     Sources:web
+2016-08-08 17:54:26,335 root   INFO     Other Args:{}
+2016-08-08 17:54:26,335 root   INFO     final_url:http://api.search.live.net/json.aspx?Appid=LVqAJDmakLrIedU54RutHL2qGxHlEILdYVCkBrE+t1A&query=django&sources=web
+2016-08-08 17:54:26,506 root   INFO     Error
+2016-08-08 17:54:26,506 root   INFO     data:{u'SearchResponse': {u'Errors': [{u'HelpUrl': u'http://msdn.microsoft.com/en-us/library/dd251042.aspx', u'Message': u'Parameter has invalid value.', u'Code': 1002, u'Parameter': u'SearchRequest.AppId', u'Value': u'LVqAJDmakLrIedU54RutHL2qGxHlEILdYVCkBrE t1A'}], u'Query': {u'SearchTerms': u'django'}, u'Version': u'2.2'}}
+2016-08-08 17:55:06,882 root   INFO     Query:django
+2016-08-08 17:55:07,405 root   INFO     Sources:web
+2016-08-08 17:55:08,084 root   INFO     Other Args:{}
+2016-08-08 17:55:15,969 root   INFO     final_url:http://api.search.live.net/json.aspx?Appid=LVqAJDmakLrIedU54RutHL2qGxHlEILdYVCkBrE+t1A&query=django&sources=web
