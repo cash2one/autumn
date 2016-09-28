@@ -402,7 +402,7 @@ def remove_otc():
     for ind, doc in enumerate(workbook.collection(_id=str), 1):
         # print doc['_id'], ind
 
-        if ind >= 6984:
+        if ind >= 0:
             print doc['_id'], ind
             coll.update({'_id': ObjectId(doc['_id'])}, setdata={'stat': 0, 'upt': datetime.now()})
         # break
